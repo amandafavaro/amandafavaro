@@ -5,6 +5,8 @@
 
 - 🌱 I continue to deepen my studies in **.NET C#.**
 
+- 💼 I'm currently looking **for a job!**
+
 - 📫 How to reach me: **amandacfa@hotmail.com**
 
 - ⚡ Fun fact **I'm passionate about games, music and animals!**
