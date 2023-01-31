@@ -1,13 +1,13 @@
-<h1 align="center">Olá 👋, me chamo Amanda Favaro!</h1>
-<h3 align="center">Sou desenvolvedora de software com foco em back-end, utilizando a linguagem .NET C#. Além disso também tenho conhecimento em Angular, JavaScript, TypeScript e SQL Server.</h3>
+<h1 align="center">Hi 👋, I'm Amanda Favaro!</h1>
+<h3 align="center">I'm a software developer from Brazil focused on back-end, using .NET C#. In addition I also have knowledge in Angular, JavaScript, TypeScript and SQL Server.</h3>
 
-- 👨‍💻 Atualmente estou desenvolvendo **meu site pessoal utilizando Angular.**
+- 👨‍💻 I'm currently developing **my personal website using Angular.**
 
-- 🌱 Continuo aprofundando os meus estudos em **.NET C#.**
+- 🌱 I continue to deepen my studies in **.NET C#.**
 
-- 📫 Para entrar em contato comigo: **amandacfa@hotmail.com**
+- 📫 How to reach me: **amandacfa@hotmail.com**
 
-- ⚡ Fun fact **sou apaixonada por games, música e animais!**
+- ⚡ Fun fact **I'm passionate about games, music and animals!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
