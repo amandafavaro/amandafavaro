@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amanda Favaro!</h1>
-<h3 align="center">I'm a software developer from Brazil focused on back-end, using .NET C#. In addition I also have knowledge in Angular, JavaScript, TypeScript and SQL Server.</h3>
+<h3 align="center">I'm a software developer from Brazil focused on back-end, using .NET C#. In addition I also have knowledge in Angular, JavaScript, TypeScript, SQL Server, SOLID and Git.</h3>
 
 - 👨‍💻 I'm currently developing **my personal website using Angular.**
 
